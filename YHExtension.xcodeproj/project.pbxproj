@@ -66,9 +66,6 @@
 		66861CB81FAC77D600E8D799 /* UIBarButtonItem+MJ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+MJ.m"; sourceTree = "<group>"; };
 		66861CBA1FAC77D600E8D799 /* NSAttributedString+attributedString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+attributedString.h"; sourceTree = "<group>"; };
 		66861CBB1FAC77D600E8D799 /* NSAttributedString+attributedString.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSAttributedString+attributedString.m"; sourceTree = "<group>"; };
-		66861CBD1FAC77D600E8D799 /* MBProgressHUD+MJ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD+MJ.h"; sourceTree = "<group>"; };
-		66861CBE1FAC77D600E8D799 /* MBProgressHUD+MJ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+MJ.m"; sourceTree = "<group>"; };
-		66861CBF1FAC77D600E8D799 /* MBProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MBProgressHUD.bundle; sourceTree = "<group>"; };
 		66861CC11FAC77D600E8D799 /* UIViewController+BackButtonHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+BackButtonHandler.h"; sourceTree = "<group>"; };
 		66861CC21FAC77D600E8D799 /* UIViewController+BackButtonHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+BackButtonHandler.m"; sourceTree = "<group>"; };
 		66861CC31FAC77D600E8D799 /* UIViewController+DismissKeyboard.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+DismissKeyboard.h"; sourceTree = "<group>"; };
@@ -186,7 +183,6 @@
 			isa = PBXGroup;
 			children = (
 				66861CCF1FAC77D700E8D799 /* CALayer */,
-				66861CBC1FAC77D600E8D799 /* MBProgressHUD+MJ */,
 				66861D091FAC77D900E8D799 /* NSArray */,
 				66861CB91FAC77D600E8D799 /* NSAttributedString */,
 				66861CFB1FAC77D800E8D799 /* NSDate */,
@@ -308,16 +304,6 @@
 				66861CBB1FAC77D600E8D799 /* NSAttributedString+attributedString.m */,
 			);
 			path = NSAttributedString;
-			sourceTree = "<group>";
-		};
-		66861CBC1FAC77D600E8D799 /* MBProgressHUD+MJ */ = {
-			isa = PBXGroup;
-			children = (
-				66861CBD1FAC77D600E8D799 /* MBProgressHUD+MJ.h */,
-				66861CBE1FAC77D600E8D799 /* MBProgressHUD+MJ.m */,
-				66861CBF1FAC77D600E8D799 /* MBProgressHUD.bundle */,
-			);
-			path = "MBProgressHUD+MJ";
 			sourceTree = "<group>";
 		};
 		66861CC01FAC77D600E8D799 /* UIViewController */ = {
