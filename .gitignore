@@ -1,0 +1,7 @@
+YHExtension.xcodeproj/xcuserdata/
+YHExtension.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+YHExtension.xcodeproj/project.xcworkspace/xcuserdata/
