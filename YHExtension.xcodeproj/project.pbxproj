@@ -54,8 +54,6 @@
 		66861CB11FAC77D500E8D799 /* NSDictionary+Exten.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Exten.m"; sourceTree = "<group>"; };
 		66861CB31FAC77D600E8D799 /* MJTitleButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MJTitleButton.h; sourceTree = "<group>"; };
 		66861CB41FAC77D600E8D799 /* MJTitleButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MJTitleButton.m; sourceTree = "<group>"; };
-		66861CB51FAC77D600E8D799 /* UIBarButtonItem+GA.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+GA.h"; sourceTree = "<group>"; };
-		66861CB61FAC77D600E8D799 /* UIBarButtonItem+GA.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+GA.m"; sourceTree = "<group>"; };
 		66861CB71FAC77D600E8D799 /* UIBarButtonItem+MJ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+MJ.h"; sourceTree = "<group>"; };
 		66861CB81FAC77D600E8D799 /* UIBarButtonItem+MJ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+MJ.m"; sourceTree = "<group>"; };
 		66861CBA1FAC77D600E8D799 /* NSAttributedString+attributedString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+attributedString.h"; sourceTree = "<group>"; };
@@ -262,8 +260,6 @@
 			children = (
 				66861CB31FAC77D600E8D799 /* MJTitleButton.h */,
 				66861CB41FAC77D600E8D799 /* MJTitleButton.m */,
-				66861CB51FAC77D600E8D799 /* UIBarButtonItem+GA.h */,
-				66861CB61FAC77D600E8D799 /* UIBarButtonItem+GA.m */,
 				66861CB71FAC77D600E8D799 /* UIBarButtonItem+MJ.h */,
 				66861CB81FAC77D600E8D799 /* UIBarButtonItem+MJ.m */,
 			);
