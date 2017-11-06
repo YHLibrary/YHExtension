@@ -7,8 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-
-
 /*
  *  水印方向
  */
@@ -31,15 +29,7 @@ typedef enum {
     
 }ImageWaterDirect;
 
-
-
-
-
-
 @interface UIImage (Water)
-
-
-
 
 -(UIImage *)waterWithText:(NSString *)text direction:(ImageWaterDirect)direction fontColor:(UIColor *)fontColor fontPoint:(CGFloat)fontPoint marginXY:(CGPoint)marginXY;
 

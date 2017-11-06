@@ -10,9 +10,6 @@
 
 @implementation UIImage (Water)
 
-
-
-
 -(UIImage *)waterWithText:(NSString *)text direction:(ImageWaterDirect)direction fontColor:(UIColor *)fontColor fontPoint:(CGFloat)fontPoint marginXY:(CGPoint)marginXY{
     
     CGSize size = self.size;
