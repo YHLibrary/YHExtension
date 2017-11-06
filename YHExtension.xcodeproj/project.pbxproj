@@ -32,8 +32,6 @@
 		66861C901FAC77D500E8D799 /* UITextField+WF.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UITextField+WF.m"; sourceTree = "<group>"; };
 		66861C921FAC77D500E8D799 /* TagButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TagButton.h; sourceTree = "<group>"; };
 		66861C931FAC77D500E8D799 /* TagButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TagButton.m; sourceTree = "<group>"; };
-		66861C941FAC77D500E8D799 /* UIButton+WF.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+WF.h"; sourceTree = "<group>"; };
-		66861C951FAC77D500E8D799 /* UIButton+WF.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+WF.m"; sourceTree = "<group>"; };
 		66861C971FAC77D500E8D799 /* UIBarButtonItem+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+Extension.h"; sourceTree = "<group>"; };
 		66861C981FAC77D500E8D799 /* UIBarButtonItem+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+Extension.m"; sourceTree = "<group>"; };
 		66861C991FAC77D500E8D799 /* UINavigationController+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+Extension.h"; sourceTree = "<group>"; };
@@ -210,8 +208,6 @@
 			children = (
 				66861C921FAC77D500E8D799 /* TagButton.h */,
 				66861C931FAC77D500E8D799 /* TagButton.m */,
-				66861C941FAC77D500E8D799 /* UIButton+WF.h */,
-				66861C951FAC77D500E8D799 /* UIButton+WF.m */,
 			);
 			path = UIButton;
 			sourceTree = "<group>";
