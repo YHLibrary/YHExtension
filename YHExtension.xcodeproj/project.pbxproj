@@ -86,8 +86,6 @@
 		66861CE91FAC77D800E8D799 /* UIView+frameAdjust.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+frameAdjust.m"; sourceTree = "<group>"; };
 		66861CEA1FAC77D800E8D799 /* UIView+line.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+line.h"; sourceTree = "<group>"; };
 		66861CEB1FAC77D800E8D799 /* UIView+line.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+line.m"; sourceTree = "<group>"; };
-		66861CEC1FAC77D800E8D799 /* UIView+masonry.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+masonry.h"; sourceTree = "<group>"; };
-		66861CED1FAC77D800E8D799 /* UIView+masonry.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+masonry.m"; sourceTree = "<group>"; };
 		66861CEE1FAC77D800E8D799 /* UIViewExt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UIViewExt.h; sourceTree = "<group>"; };
 		66861CEF1FAC77D800E8D799 /* UIViewExt.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIViewExt.m; sourceTree = "<group>"; };
 		66861CF11FAC77D800E8D799 /* NSString+AttributedString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+AttributedString.h"; sourceTree = "<group>"; };
@@ -360,8 +358,6 @@
 				66861CE91FAC77D800E8D799 /* UIView+frameAdjust.m */,
 				66861CEA1FAC77D800E8D799 /* UIView+line.h */,
 				66861CEB1FAC77D800E8D799 /* UIView+line.m */,
-				66861CEC1FAC77D800E8D799 /* UIView+masonry.h */,
-				66861CED1FAC77D800E8D799 /* UIView+masonry.m */,
 				66861CEE1FAC77D800E8D799 /* UIViewExt.h */,
 				66861CEF1FAC77D800E8D799 /* UIViewExt.m */,
 			);
