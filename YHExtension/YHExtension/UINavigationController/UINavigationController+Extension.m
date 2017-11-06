@@ -99,11 +99,11 @@ static NSString *const kOriginDelegate = @"kOriginDelegate";
     if (self.viewControllers.count > 3) {
         
 //        TabBarViewController *tabBarViewController = (TabBarViewController *)self.tabBarController;
-        MyLog(@"%@",self.viewControllers);
+//        MyLog(@"%@",self.viewControllers);
 //        tabBarViewController.hiddenTabBar =  YES;
     }else if(self.viewControllers.count == 2){
 //        TabBarViewController *tabBarViewController = (TabBarViewController *)self.tabBarController;
-        MyLog(@"%@",self.viewControllers);
+//        MyLog(@"%@",self.viewControllers);
 //        tabBarViewController.hiddenTabBar = NO;
         
     }

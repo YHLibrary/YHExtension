@@ -36,24 +36,8 @@
 		66861C981FAC77D500E8D799 /* UIBarButtonItem+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+Extension.m"; sourceTree = "<group>"; };
 		66861C991FAC77D500E8D799 /* UINavigationController+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+Extension.h"; sourceTree = "<group>"; };
 		66861C9A1FAC77D500E8D799 /* UINavigationController+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+Extension.m"; sourceTree = "<group>"; };
-		66861C9C1FAC77D500E8D799 /* UIImage+Color.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Color.h"; sourceTree = "<group>"; };
-		66861C9D1FAC77D500E8D799 /* UIImage+Color.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Color.m"; sourceTree = "<group>"; };
-		66861CA01FAC77D500E8D799 /* UIImage+EditImageSize.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+EditImageSize.h"; sourceTree = "<group>"; };
-		66861CA11FAC77D500E8D799 /* UIImage+EditImageSize.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+EditImageSize.m"; sourceTree = "<group>"; };
-		66861CA21FAC77D500E8D799 /* UIImage+Extend.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Extend.h"; sourceTree = "<group>"; };
-		66861CA31FAC77D500E8D799 /* UIImage+Extend.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extend.m"; sourceTree = "<group>"; };
-		66861CA41FAC77D500E8D799 /* UIImage+FixOrientation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+FixOrientation.h"; sourceTree = "<group>"; };
-		66861CA51FAC77D500E8D799 /* UIImage+FixOrientation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+FixOrientation.m"; sourceTree = "<group>"; };
-		66861CA61FAC77D500E8D799 /* UIImage+Screen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Screen.h"; sourceTree = "<group>"; };
-		66861CA71FAC77D500E8D799 /* UIImage+Screen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Screen.m"; sourceTree = "<group>"; };
-		66861CA81FAC77D500E8D799 /* UIImage+Water.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+Water.h"; sourceTree = "<group>"; };
-		66861CA91FAC77D500E8D799 /* UIImage+Water.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Water.m"; sourceTree = "<group>"; };
 		66861CB01FAC77D500E8D799 /* NSDictionary+Exten.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+Exten.h"; sourceTree = "<group>"; };
 		66861CB11FAC77D500E8D799 /* NSDictionary+Exten.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Exten.m"; sourceTree = "<group>"; };
-		66861CB31FAC77D600E8D799 /* MJTitleButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MJTitleButton.h; sourceTree = "<group>"; };
-		66861CB41FAC77D600E8D799 /* MJTitleButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MJTitleButton.m; sourceTree = "<group>"; };
-		66861CB71FAC77D600E8D799 /* UIBarButtonItem+MJ.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+MJ.h"; sourceTree = "<group>"; };
-		66861CB81FAC77D600E8D799 /* UIBarButtonItem+MJ.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+MJ.m"; sourceTree = "<group>"; };
 		66861CBA1FAC77D600E8D799 /* NSAttributedString+attributedString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSAttributedString+attributedString.h"; sourceTree = "<group>"; };
 		66861CBB1FAC77D600E8D799 /* NSAttributedString+attributedString.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSAttributedString+attributedString.m"; sourceTree = "<group>"; };
 		66861CC11FAC77D600E8D799 /* UIViewController+BackButtonHandler.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIViewController+BackButtonHandler.h"; sourceTree = "<group>"; };
@@ -172,11 +156,9 @@
 				66861CCC1FAC77D700E8D799 /* NSObject */,
 				66861CF01FAC77D800E8D799 /* NSString */,
 				66861D0E1FAC77D900E8D799 /* Singleton */,
-				66861CB21FAC77D600E8D799 /* UIBarButtonItem */,
 				66861C911FAC77D500E8D799 /* UIButton */,
 				66861CD41FAC77D700E8D799 /* UIColor */,
 				66861CDD1FAC77D700E8D799 /* UIFont */,
-				66861C9B1FAC77D500E8D799 /* UIImage */,
 				66861D061FAC77D800E8D799 /* UINavigationBar */,
 				66861C961FAC77D500E8D799 /* UINavigationController */,
 				66861CE01FAC77D800E8D799 /* UIResponder */,
@@ -221,25 +203,6 @@
 			path = UINavigationController;
 			sourceTree = "<group>";
 		};
-		66861C9B1FAC77D500E8D799 /* UIImage */ = {
-			isa = PBXGroup;
-			children = (
-				66861C9C1FAC77D500E8D799 /* UIImage+Color.h */,
-				66861C9D1FAC77D500E8D799 /* UIImage+Color.m */,
-				66861CA01FAC77D500E8D799 /* UIImage+EditImageSize.h */,
-				66861CA11FAC77D500E8D799 /* UIImage+EditImageSize.m */,
-				66861CA21FAC77D500E8D799 /* UIImage+Extend.h */,
-				66861CA31FAC77D500E8D799 /* UIImage+Extend.m */,
-				66861CA41FAC77D500E8D799 /* UIImage+FixOrientation.h */,
-				66861CA51FAC77D500E8D799 /* UIImage+FixOrientation.m */,
-				66861CA61FAC77D500E8D799 /* UIImage+Screen.h */,
-				66861CA71FAC77D500E8D799 /* UIImage+Screen.m */,
-				66861CA81FAC77D500E8D799 /* UIImage+Water.h */,
-				66861CA91FAC77D500E8D799 /* UIImage+Water.m */,
-			);
-			path = UIImage;
-			sourceTree = "<group>";
-		};
 		66861CAF1FAC77D500E8D799 /* NSDictionary */ = {
 			isa = PBXGroup;
 			children = (
@@ -247,17 +210,6 @@
 				66861CB11FAC77D500E8D799 /* NSDictionary+Exten.m */,
 			);
 			path = NSDictionary;
-			sourceTree = "<group>";
-		};
-		66861CB21FAC77D600E8D799 /* UIBarButtonItem */ = {
-			isa = PBXGroup;
-			children = (
-				66861CB31FAC77D600E8D799 /* MJTitleButton.h */,
-				66861CB41FAC77D600E8D799 /* MJTitleButton.m */,
-				66861CB71FAC77D600E8D799 /* UIBarButtonItem+MJ.h */,
-				66861CB81FAC77D600E8D799 /* UIBarButtonItem+MJ.m */,
-			);
-			path = UIBarButtonItem;
 			sourceTree = "<group>";
 		};
 		66861CB91FAC77D600E8D799 /* NSAttributedString */ = {
@@ -464,7 +416,7 @@
 				TargetAttributes = {
 					66861C711FAC755800E8D799 = {
 						CreatedOnToolsVersion = 9.0;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -640,12 +592,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = EX92ZWBZUA;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = YHExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.doufushop.YHExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -654,12 +607,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = EX92ZWBZUA;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = YHExtension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.doufushop.YHExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
