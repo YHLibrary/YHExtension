@@ -7,5 +7,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 target 'YHExtension' do
   # Uncomment this line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
+
+  pod 'YHExtension', :path => './YHExtension.podspec'
  
 end
