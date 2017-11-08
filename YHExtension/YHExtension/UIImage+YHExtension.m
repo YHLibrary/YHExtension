@@ -26,18 +26,6 @@ static const void *FailBlockKey = &FailBlockKey;
 
 
 /**
- *  获取启动图片
- */
-+(UIImage *)launchImage{
-    
-    NSString *imageName=@"LaunchImage-700";
-    
-    if(iphone5x_4_0) imageName=@"LaunchImage-700-568h";
-    
-    return [UIImage imageNamed:imageName];
-}
-
-/**
  *  拉伸图片
  */
 #pragma mark  拉伸图片:自定义比例
