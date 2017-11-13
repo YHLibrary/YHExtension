@@ -203,4 +203,13 @@ static const void *FailBlockKey = &FailBlockKey;
     return frameDuration;
 }
 
++(UIImage *)captureScreen:(UIView *)viewToCapture
+{
+    UIGraphicsBeginImageContext(viewToCapture.bounds.size);//模糊
+    [viewToCapture.layer renderInContext:UIGraphicsGetCurrentContext()];
+    UIImage *viewImage = UIGraphicsGetImageFromCurrentImageContext();
+    UIGraphicsEndImageContext();
+    return viewImage;
+}
+
 @end
